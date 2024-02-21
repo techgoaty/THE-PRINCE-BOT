@@ -1,7 +1,7 @@
 { 
-    "name": "prince-bot",
+    "name": "ANONYMOUS_TECHG.O.A.T",
     "version": "2.0.0",
-    "description": "Advanced WhatsApp Bot",
+    "description": "And unfortunately we're all humans except.me",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -27,7 +27,7 @@
     ],
     "homepage": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
     "author": {
-        "name": "PRINCE"
+        "name": "ANONYMOUS"
     },
     "repository": {
         "type": "git",
